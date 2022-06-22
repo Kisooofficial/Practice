@@ -34,3 +34,11 @@ public class BootSpringBootApplication{
 }
 </code>
 </pre>
+
+### 코드블럭 사용하기 "```" 사용하기
+```
+sum = 0
+for i in range(100):
+    sum += i
+print(sum)
+```
