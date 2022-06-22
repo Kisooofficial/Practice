@@ -23,3 +23,14 @@ This is a normal paragraph
     I almost use Python.
     
 end code block.
+
+### 코드블럭 사용하기
+<pre>
+<code>
+public class BootSpringBootApplication{
+    public static void main(String[] args){
+        System.out.println("Hello, kisoo");
+    }
+}
+</code>
+</pre>
