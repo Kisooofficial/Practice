@@ -17,7 +17,7 @@
 * AI Mathmatics
 
 ### 들여쓰기 연습하는 구간
-This is a normal paragraph:
+This is a normal paragraph
     This is a code block.
     I almost use Python.
 end code block.
