@@ -9,3 +9,8 @@
 2. Information Convergence
 4. Data Science
 3. Interested in Python
+
+### 여기는 순서없는 목록을 연습하는 구간입니다.(글머리 기호: *, +, - 지원)
+* Data Mining
+* Machine Learning
+* AI Mathmatics
