@@ -13,4 +13,4 @@
 ### 여기는 순서없는 목록을 연습하는 구간입니다.(글머리 기호: *, +, - 지원)
 * Data Mining
   * Machine Learning
-    *Text Mining
+   * Text Mining
